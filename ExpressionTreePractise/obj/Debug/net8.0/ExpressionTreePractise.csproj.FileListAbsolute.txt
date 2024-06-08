@@ -1,0 +1,14 @@
+C:\Visual Studio 2022\ExpressionTreeTest\ExpressionTreePractise\bin\Debug\net8.0\ExpressionTreePractise.exe
+C:\Visual Studio 2022\ExpressionTreeTest\ExpressionTreePractise\bin\Debug\net8.0\ExpressionTreePractise.deps.json
+C:\Visual Studio 2022\ExpressionTreeTest\ExpressionTreePractise\bin\Debug\net8.0\ExpressionTreePractise.runtimeconfig.json
+C:\Visual Studio 2022\ExpressionTreeTest\ExpressionTreePractise\bin\Debug\net8.0\ExpressionTreePractise.dll
+C:\Visual Studio 2022\ExpressionTreeTest\ExpressionTreePractise\bin\Debug\net8.0\ExpressionTreePractise.pdb
+C:\Visual Studio 2022\ExpressionTreeTest\ExpressionTreePractise\obj\Debug\net8.0\ExpressionTreePractise.GeneratedMSBuildEditorConfig.editorconfig
+C:\Visual Studio 2022\ExpressionTreeTest\ExpressionTreePractise\obj\Debug\net8.0\ExpressionTreePractise.AssemblyInfoInputs.cache
+C:\Visual Studio 2022\ExpressionTreeTest\ExpressionTreePractise\obj\Debug\net8.0\ExpressionTreePractise.AssemblyInfo.cs
+C:\Visual Studio 2022\ExpressionTreeTest\ExpressionTreePractise\obj\Debug\net8.0\ExpressionTreePractise.csproj.CoreCompileInputs.cache
+C:\Visual Studio 2022\ExpressionTreeTest\ExpressionTreePractise\obj\Debug\net8.0\ExpressionTreePractise.dll
+C:\Visual Studio 2022\ExpressionTreeTest\ExpressionTreePractise\obj\Debug\net8.0\refint\ExpressionTreePractise.dll
+C:\Visual Studio 2022\ExpressionTreeTest\ExpressionTreePractise\obj\Debug\net8.0\ExpressionTreePractise.pdb
+C:\Visual Studio 2022\ExpressionTreeTest\ExpressionTreePractise\obj\Debug\net8.0\ExpressionTreePractise.genruntimeconfig.cache
+C:\Visual Studio 2022\ExpressionTreeTest\ExpressionTreePractise\obj\Debug\net8.0\ref\ExpressionTreePractise.dll
